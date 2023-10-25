@@ -20,7 +20,12 @@
     }
   },
   "scanSettingsSAST": {
-    "enableScan": "true"
+    "enableScan": "true",
+    "scanPullRequests": true,
+    "enableRemediation": false,
+    "incrementalScan": true,
+    "snippetSize": 20,
+    "baseBranches": [],
   },
   "checkRunSettingsSAST": {
     "checkRunConclusionLevel": "success",
