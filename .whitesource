@@ -24,7 +24,7 @@
     "scanPullRequests": true,
     "enableRemediation": false,
     "incrementalScan": true,
-    "snippetSize": 20,
+    "snippetSize": 15,
     "baseBranches": []
   },
   "checkRunSettingsSAST": {
