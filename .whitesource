@@ -1,3 +1,4 @@
+
 {
   "scanSettings": {
     "configMode": "AUTO",
@@ -29,6 +30,7 @@
   },
   "checkRunSettingsSAST": {
     "checkRunConclusionLevel": "success",
+    "javascriptEngineGeneration": 2,
     "severityThreshold": "medium"
   }
 }
